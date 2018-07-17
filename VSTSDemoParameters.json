@@ -21,7 +21,7 @@
       "value": "availabilityset"
     },
     "diagStorageAccountName": {
-      "value": "diagstgaccount"
+      "value": "ttudiagstgaccount"
     },
     "adminUsername": {
       "value": "localadmin"
